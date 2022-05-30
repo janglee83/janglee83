@@ -1,22 +1,8 @@
-### Hi there 👋
+### Hi there ฅ^•ω•^ฅ 👋
 
 
-**giangleee/giangleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-### Test 1
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giangleee)](https://github.com/giangleee/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangleee&show_icons=true&theme=radical)
+- 🔭 I’m currently a student in Hanoi University of Science & Technology (HUST)
+- 🌱 I’m currently learning Java, Js, C, PHP
+- 🤔 In future i want to learn Py 
+- 📫 How to reach me: Facebook: https://www.facebook.com/giangfeellikeSisgoingtomakeHLS/ or Instragram: https://www.instagram.com/giangthanhs/
+- 😄 Pronouns: g-i-a-n-g
