@@ -12,7 +12,8 @@
 I'm currently working on  Sun Asterisk
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=janglee83&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=janglee83&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=janglee83&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="left">
+    <img height="170" alt="stat-1" src="https://github-readme-stats.vercel.app/api?username=janglee83&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
+    <img height="170" alt="stat-2" src="https://github-readme-streak-stats.herokuapp.com/?user=janglee83&hide_border=true" />
+</div>
